@@ -17,8 +17,7 @@ Install the aiohttp library if not already installed:pip install aiohttp
 
 # Usage
 Place your cookies in a text file named cookies.txt with each cookie on a new line.
-Run the script:python check_cookies.py
-
+Run the script:python main.py
 After running, the valid cookies will be saved in cookiew.txt and a summary will be printed.
 
 Made by ChatLGBT
